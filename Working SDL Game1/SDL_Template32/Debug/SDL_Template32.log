@@ -1,2 +1,25 @@
-﻿  Enemy.cpp
-  SDL_Template32.vcxproj -> D:\SDL_Game-master - (EnemySpawning)\SDL_Game-master - (EnemySpawning)\SDL_Game-master\Working SDL Game1\Debug\SDL_Template32.exe
+﻿  Bullet.cpp
+  Enemy.cpp
+  Game.cpp
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Bullet.cpp(15,28): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Ship.h(14,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Game.cpp(65,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Game.cpp(123,45): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Game.cpp(129,45): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Game.cpp(134,45): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Game.cpp(139,45): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Main.cpp
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Game.cpp(240,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Ship.cpp
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Ship.h(14,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Sprite.cpp
+  SpriteManager.cpp
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\Ship.h(14,27): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\SpriteManager.cpp(15,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\SpriteManager.cpp(24,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\SpriteManager.cpp(32,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\SpriteManager.cpp(47,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\SpriteManager.cpp(49,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\SDL_Template32\SpriteManager.cpp(64,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SDL_Template32.vcxproj -> C:\Users\ldk20\OneDrive\Documents\SDL_Game\Working SDL Game1\Debug\SDL_Template32.exe
