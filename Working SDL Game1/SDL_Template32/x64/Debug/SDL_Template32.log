@@ -1,0 +1,15 @@
+﻿  Bullet.cpp
+C:\Users\Dio\Desktop\SDL_Game-master - Copy\SDL_Game-master\Working SDL Game1\SDL_Template32\Sprite.h(2,9): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Enemy.cpp
+C:\Users\Dio\Desktop\SDL_Game-master - Copy\SDL_Game-master\Working SDL Game1\SDL_Template32\Sprite.h(2,9): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Game.cpp
+C:\Users\Dio\Desktop\SDL_Game-master - Copy\SDL_Game-master\Working SDL Game1\SDL_Template32\Game.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+C:\Users\Dio\Desktop\SDL_Game-master - Copy\SDL_Game-master\Working SDL Game1\SDL_Template32\Game.h(3,10): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Ship.cpp
+C:\Users\Dio\Desktop\SDL_Game-master - Copy\SDL_Game-master\Working SDL Game1\SDL_Template32\Sprite.h(2,9): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Sprite.cpp
+C:\Users\Dio\Desktop\SDL_Game-master - Copy\SDL_Game-master\Working SDL Game1\SDL_Template32\Sprite.h(2,9): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  SpriteManager.cpp
+C:\Users\Dio\Desktop\SDL_Game-master - Copy\SDL_Game-master\Working SDL Game1\SDL_Template32\Sprite.h(2,9): fatal error C1083: Cannot open include file: 'SDL_image.h': No such file or directory
+  Generating Code...
