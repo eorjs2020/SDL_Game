@@ -10,5 +10,8 @@ public:
 	~Enemy();
 	void update(float deltaTime) override;
 	void onCollisionWith(const Sprite& other)override;
+	float shootInverval = 0.1;
+	float shootTimer = 0;
+	void enemyTryShoot();
 };
 

@@ -210,11 +210,13 @@ void Game::update()
 		Enemy* newenemy = new Enemy(pRenderer, "Assets/human.png", 40, 40, 50);
 		newenemy->dst.x = rand() % 700;
 		newenemy->dst.y = rand() % 300;
-
+		
 		spriteManager.add(newenemy);
 
 		enemyTimer = enemySpawnDelay;
+		newenemy->enemyTryShoot();
 	}
+	
 
 
 	
