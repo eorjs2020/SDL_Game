@@ -1,7 +1,0 @@
-﻿  Game.cpp
-  Main.cpp
-D:\Game1007-SDL_Template-master\Game1007-SDL_Template-master\GAME1007_SDL_Template32\SDL_Template32\Game.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
-  Sprite.cpp
-D:\Game1007-SDL_Template-master\Game1007-SDL_Template-master\GAME1007_SDL_Template32\SDL_Template32\Game.h(3,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
-  코드를 생성하고 있습니다...
-D:\Game1007-SDL_Template-master\Game1007-SDL_Template-master\GAME1007_SDL_Template32\SDL_Template32\Sprite.h(2,9): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL_image.h': No such file or directory
